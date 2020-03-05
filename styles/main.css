@@ -1,0 +1,36 @@
+.jokeBody {
+    background-color: seashell;
+}
+
+.jokeHeader {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50pt;
+    text-align: center;
+    
+}
+
+.jokeContainer {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+    
+    
+}
+
+.eachJokeContainer {
+    border: 3px solid red;
+    flex-basis: 30%;
+    justify-content: center;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+    text-align: center;
+    margin: .2rem;
+    
+
+    
+}
+
+
